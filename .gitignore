@@ -1,2 +1,5 @@
 *.json
 .ipynb_checkpoints/
+*.pdf
+*.zip
+*.rar
